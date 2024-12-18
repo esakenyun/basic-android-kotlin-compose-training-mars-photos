@@ -12,6 +12,8 @@ Berikut adalah tampilan dari aplikasi basic-android-kotlin-compose-training-mars
 ### Video Demo  Eksplorasi Materi Connect to Internet
 Berikut adalah video demo dari aplikasi basic-android-kotlin-compose-training-mars-photos :
 
+[DemoApp1.webm](https://github.com/user-attachments/assets/0aebd329-aeed-4c7b-ae26-6faafaba4004)
+
 ###  Eksplorasi Materi Connect to Internet Lanjutan (Bagian 1)
 
 <div style="display: flex; gap: 30px;">
