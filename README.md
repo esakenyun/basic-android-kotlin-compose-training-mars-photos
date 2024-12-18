@@ -15,7 +15,7 @@ Berikut adalah video demo dari aplikasi basic-android-kotlin-compose-training-ma
 ###  Eksplorasi Materi Connect to Internet Lanjutan (Bagian 1)
 
 <div style="display: flex; gap: 30px;">
-  <img src="https://github.com/user-attachments/assets/d8a9e3a4-66f7-4569-8f34-0d046f9fdf2c" alt="Pengujian Fake Data" width="500" />
+  <img src="https://github.com/user-attachments/assets/81ffc3f4-e914-4988-bab5-42b5339227ee" alt="Pengujian Fake Data" width="500" />
   <img src="https://github.com/user-attachments/assets/444a39d7-708c-41fa-9c87-fa509692c678" alt="Pengujian View" width="500" />
 </div>
 
